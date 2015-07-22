@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aquí pezweon</string>
+    <string name="app_wizard">Quién hizo esto?</string>
+    <string name="the_app_wizard">El puto amo del desarrollo móvil: Kerry!</string>
+
+    <string name="latitude">Esta es tu puta latitud: </string>
+    <string name="longitude">Esta es tu jodida longitud: </string>
+
+    <string name="gps_on">Has encendido el puto GPS? Anda ve y revisa que si no esta wevada no funciona</string>
+    <string name="connecting">Espera carajo! Todavía estoy conectando el GPS</string>
+    <string name="connected">Ya me conecté con tu puto GPS!</string>
+    <string name="connection_failed">No se que mierda pasó, pero algo falló</string>
+    <string name="connection_suspended">Ni puta idea que paso, pero tu servicio se suspendió</string>
+</resources>

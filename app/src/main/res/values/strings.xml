@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aquí pezweon</string>
+    <string name="app_wizard">Who did this?</string>
+    <string name="the_app_wizard">The fucking master of mobile development: Kerry!</string>
+
+    <string name="latitude">This is your fucking latitude: </string>
+    <string name="longitude">This is your shitty longitude: </string>
+
+    <string name="gps_on">Did you turn the fucking GPS on? Go and check otherwise this shit won\'t work</string>
+    <string name="connecting">Damn! just give a minute to start!</string>
+    <string name="connected">I\'m connected to the fucking GPS!</string>
+    <string name="connection_failed">I don\'t know what the fuck happened! But something failed</string>
+    <string name="connection_suspended">I don\'t know what the hell happened! But the service has been suspended</string>
+</resources>
