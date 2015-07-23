@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
     private void update_ui() {
         latitude.setText(getResources().getString(R.string.latitude) + "\n" + String.valueOf(last_known_location.getLatitude()));
-        longitude.setText(getResources().getString(R.string.longitude) + "\n" + String.valueOf(R.string.longitude + last_known_location.getLongitude()));
+        longitude.setText(getResources().getString(R.string.longitude) + "\n" + String.valueOf(last_known_location.getLongitude()));
     }
 
     protected void createLocationRequest() {
